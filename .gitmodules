@@ -4,3 +4,6 @@
 [submodule "NodeJSfixerIoEuroConverter"]
 	path = NodeJSfixerIoEuroConverter
 	url = https://github.com/benoit-deuffic/NodeJsfixerIoEuroConverter.git
+[submodule "SfFixerIoEuroConverter"]
+	path = SfFixerIoEuroConverter
+	url = https://github.com/benoit-deuffic/SfFixerIoEuroConverter.git
